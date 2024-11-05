@@ -28,3 +28,5 @@ for i in range(15):
 
 plt.legend()
 plt.grid(True)
+
+plt.show()
